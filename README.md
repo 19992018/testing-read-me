@@ -39,7 +39,6 @@
         >
       </li>
     </ol>
-
     <h1>Contact Me</h1>
     <p>
       I am open to internships and junior software development roles. Kindly
