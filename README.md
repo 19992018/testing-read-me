@@ -11,7 +11,7 @@
     <h1>My projects</h1>
     <p>
       Click the links below to see how I approached the various assignments in a
-      unit I took called FUndamentals of Programming
+      unit I took called Fundamentals of Programming
     </p>
     <ol>
       <li>
@@ -41,6 +41,13 @@
     </ol>
 
     <h1>Contact Me</h1>
+    <p>
+      I am open to internships and junior software development roles. Kindly
+      reach me on:
+    </p>
+    <li><a href="#">WhatsApp</a></li>
+    <li><a href="#">Email</a></li>
+
     <br />
 
 
