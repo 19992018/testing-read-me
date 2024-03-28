@@ -39,11 +39,11 @@
         <li>The password should be more than 8 characters</li>
         <li>Validation should employ three alternatives:</li>
       </ol>
-      <ul>
-      <li>Functional,</li>
+      <ol>
+        <li>Functional,</li>
         <li>OOP,</li>
         <li>Procedural programming</li>
-      </ul>
+      </ol>
       <li>
         <a
           href="https://github.com/19992018/fundamentals-of-progamming-portfolio/blob/main/margret_mauno_family_tree%20(1).pl"
