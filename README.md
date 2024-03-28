@@ -38,11 +38,11 @@
         <li>The username field should be a valid email address</li>
         <li>The password should be more than 8 characters</li>
         <li>Validation should employ three alternatives:</li>
-      </ol>
-      <ol>
-        <li>Functional,</li>
-        <li>OOP,</li>
-        <li>Procedural programming</li>
+            <ol>
+            <li>Functional,</li>
+            <li>OOP,</li>
+            <li>Procedural programming</li>
+          </ol>
       </ol>
       <li>
         <a
