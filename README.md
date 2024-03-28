@@ -40,9 +40,9 @@
         <li>Validation should employ three alternatives:</li>
       </ul>
       <ul>
-        <li>&nbsp;&nbsp;&nbsp;&nbsp;Functional,</li>
-        <li>&nbsp;&nbsp;&nbsp;&nbsp;OOP,</li>
-        <li>Procedural programming</li>
+        &nbsp;&nbsp;&nbsp;&nbsp;<li>Functional,</li>
+        &nbsp;&nbsp;&nbsp;&nbsp;<li>OOP,</li>
+        &nbsp;&nbsp;&nbsp;&nbsp;<li>Procedural programming</li>
       </ul>
       <li>
         <a
