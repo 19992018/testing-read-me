@@ -137,7 +137,6 @@
       <li>
         <a href="https://wa.me/254790500687">WhatsApp</a> : (+254790500687)
       </li>
-
       <li>
         <a href="mailto:margretmauno16@gmail.com">Email</a> :
         (margretmauno16@gmail.com)
