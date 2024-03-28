@@ -33,19 +33,16 @@
         Develop a login application (See figure 1) that can validate both input
         fields
       </p>
-      <ul>
+      <ol>
         <li>The fields should not be empty on submission</li>
         <li>The username field should be a valid email address</li>
         <li>The password should be more than 8 characters</li>
         <li>Validation should employ three alternatives:</li>
-      </ul>
+      </ol>
       <ul>
-      <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;<li>Functional,</li>
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;<li>OOP,</li>
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;<li>Procedural programming</li>
+      <li>Functional,</li>
+        <li>OOP,</li>
+        <li>Procedural programming</li>
       </ul>
       <li>
         <a
